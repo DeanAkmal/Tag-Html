@@ -3,6 +3,8 @@
 
 Tags adalah sebuah penanda awalan dan akhiran dari sebuah elemem di HTML. Tag dibuat dengan kurung siku (<...>). Tag HTML ada yang memiliki penutup, ada yang hanya berupa terbuka.
 
+Tags memiliki banyak macam fungsi dan di antaranya sebagai berikut :
+
 ### Tag Dasar HTML yang Termasuk ke Dalam Fundamental
 | Nama | Fungsi |
 |------|--------|
