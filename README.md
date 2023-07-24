@@ -18,6 +18,19 @@ Tags memiliki banyak macam fungsi dan di antaranya sebagai berikut :
 | `<head>`        | Berisi informasi-informasi meta dan informasi lainnya yang tidak akan ditampilkan di halaman web.   |
 | `<title>`       | Menentukan judul atau nama halaman web yang akan ditampilkan di tab atau judul jendela browser.     |
 | `<body>`        | Berisi seluruh isi konten yang akan ditampilkan di halaman web.                                     |
+<pre>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Page Title&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;h1&gt;My First Heading&lt;/h1&gt;
+&lt;p&gt;My first paragraph.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
 <hr>
 
 ### Tag HTML Membuat Judul
