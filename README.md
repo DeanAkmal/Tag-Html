@@ -1,9 +1,11 @@
-<div align = "center">
-  <img  src = "https://github.com/DeanAkmal/Tag-Html/blob/main/Pict/download.png"
-    </div>
+ 
+  <img align = "center" src = "https://github.com/DeanAkmal/Tag-Html/blob/main/Pict/download.png">
+    
+<br>
+  
 # HTML TAGS
-## Apa Itu Tags
 
+## Apa Itu Tags
 Tags adalah sebuah penanda awalan dan akhiran dari sebuah elemem di HTML. Tag dibuat dengan kurung siku (<...>). Tag HTML ada yang memiliki penutup, ada yang hanya berupa terbuka.
 
 Tags memiliki banyak macam fungsi dan di antaranya sebagai berikut :
