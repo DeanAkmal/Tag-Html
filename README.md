@@ -1,20 +1,17 @@
  
   <img align = "center" src = "https://github.com/DeanAkmal/Tag-Html/blob/main/Pict/download.png">
-    
 <br>
-  
+
 # Tag HTML Beserta Fungsinya
 <br>
 
 ## Apa Itu Tag
+***Tag*** adalah sebuah penanda awalan dan akhiran dari sebuah elemem di HTML. Tag dibuat dengan kurung siku (<...>). Tag HTML ada yang memiliki penutup, ada yang hanya berupa terbuka. 
 <br>
 
-Tag adalah sebuah penanda awalan dan akhiran dari sebuah elemem di HTML. Tag dibuat dengan kurung siku (<...>). Tag HTML ada yang memiliki penutup, ada yang hanya berupa terbuka.
-<br>
- 
 Tag memiliki banyak macam fungsi dan di antaranya sebagai berikut :
 
-### Tag Dasar HTML yang Termasuk ke Dalam Fundamental
+### <i> Tag Dasar HTML yang Termasuk ke Dalam Fundamental </i>
 | Nama | Fungsi |
 |------|--------|
 | `<html>`        | Menandakan awal dan akhir dari sebuah dokumen HTML|                                                 |
@@ -25,7 +22,7 @@ Tag memiliki banyak macam fungsi dan di antaranya sebagai berikut :
 
 <hr>
 
-### Tag HTML Membuat Judul
+### <i> Tag HTML Membuat Judul </i>
 | Nama | Fungsi |
 |------|--------|
 | `<h1>` - `<h6>` | Menandakan judul atau heading di halaman web, dengan tingkat prioritas yang berurutan.            |
@@ -33,7 +30,7 @@ Tag memiliki banyak macam fungsi dan di antaranya sebagai berikut :
 
 <hr>
 
-### Tag HTML Untuk Membuat Paragraf 
+### <i> Tag HTML Untuk Membuat Paragraf </i> 
 | Nama | Fungsi |
 |------|--------|
 | `<p>`           | Menandakan paragraf teks.                                                                          |
@@ -42,7 +39,7 @@ Tag memiliki banyak macam fungsi dan di antaranya sebagai berikut :
 
 <hr>
 
-### Tag Style
+### <i> Tag Style </i>
 | Nama | Fungsi |
 |------|--------|
 |`style` |  Atribut untuk elemen styling pada HTML|
@@ -54,7 +51,7 @@ Tag memiliki banyak macam fungsi dan di antaranya sebagai berikut :
 
 <hr>
 
-### Tag Formating
+### <i> Tag Formating </i>
 | Nama | Fungsi |
 |------|--------|
 |`<b>`| Membuat teks tebal |
@@ -70,7 +67,7 @@ Tag memiliki banyak macam fungsi dan di antaranya sebagai berikut :
 
 <hr>
 
-### Tag Gambar
+### <i> Tag Gambar </i>
 | Nama | Fungsi |
 |------|--------|
 |`<img>`| Elemen untuk medefinisikan gambar |
@@ -83,7 +80,7 @@ Tag memiliki banyak macam fungsi dan di antaranya sebagai berikut :
 |`<picture>`| Menampilkan gambar yang berbeda untuk perangkat yang berbeda|
 <hr>
 
-## Penutup
+## <i> Penutup </i>
 Itulah beberapa Tag HTML dasar yang umum digunakan pada saat mendesain atau membuat website dan bisa kamu pelajari lagi lebih dalam.
 
 
